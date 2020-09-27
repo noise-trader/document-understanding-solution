@@ -72,7 +72,7 @@
     "lodash": "^4.17.11",
     "next": "^8.1.0x",
     "next-redux-wrapper": "^3.0.0-alpha.3",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "normalizr": "^3.4.0",
     "query-string": "^6.8.1",
     "ramda": "^0.26.1",
